@@ -367,9 +367,9 @@ Use for loop to iterate all possible solutions.
 
 ### FLAMES Game
 
-Flames game is one of the interesting game that everyone likes to play to know the relationship with their partner. FLAMES is a game named after the acronym: Friends, Lovers, Affectionate, Marriage, Enemies and Siblings. It is a popular game among young girls at sleepovers, especially with pre-teens and teens who are beginning to explore the world of crushes. [Know more about FLAMES here](https://medium.com/@ritwika285/how-to-play-flames-game-890edc7bf3d) or [here](https://www.wikihow.com/Play-%22Flame%22)
+Write a program which implements Flames.
 
-Write a Program which takes two Inputs from User, name of the first person and second person. And then finds relation between these two persons.
+Flames is an interesting game that people play to learn about their relationships. Flames is named after the acronym: Friends, Lovers, Affectionate, Marriage, Enemies, and Siblings. It is a popular game among young people, especially those beginning to explore the world of crushes. Learn more about Flames [here](https://medium.com/@ritwika285/how-to-play-flames-game-890edc7bf3d) or [here](https://www.wikihow.com/Play-%22Flame%22)
 
 ## Solutions
 - [aekanshd](https://github.com/aekanshd/beginner-projects/tree/master/solutions/python)
