@@ -55,6 +55,7 @@ Feel free to join us on our [Gitter channel](https://gitter.im/beginner-projects
 - [Chickens and Rabbits](#chickens-and-rabbits)
 - [FLAMES Game](#FLAMES-Game)
 - [Pomodoro Timer](#Pomodoro-Timer)
+- [Scarne's Dice](#Scarne's-Dice)
 
 ## Projects
 
@@ -385,6 +386,10 @@ End work when the timer rings and put a checkmark on a piece of paper.
 If you have fewer than four checkmarks, take a short break (3–5 minutes), then go to step 2.
 After four pomodoros, take a longer break (15–30 minutes), reset your checkmark count to zero, then go to step 1.
 to know more about Pomodoro Timer [click here](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+
+### Scarne's Dice
+
+Turn-based dice game where players score points by rolling a die and then: if they roll a 1, score no points and lose their turn, if they roll a 2 to 6: add the rolled value to their points choose to either reroll or keep their score and end their turn. The winner is the first player that reaches (or exceeds) 100 points.
 
 ## Solutions
 - [aekanshd](https://github.com/aekanshd/beginner-projects/tree/master/solutions/python)
